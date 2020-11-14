@@ -9,5 +9,8 @@ public class App {
 }
 
 class Test{
-
+    public void test1(){
+        System.out.println("test方法");
+    }
 }
+
